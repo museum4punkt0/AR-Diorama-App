@@ -15,5 +15,5 @@
 - die Krugfrau: Beim Start dieser Station wird eine AR-Abbildung der Frau mit Tonkrug im Diorama erzeugt, welche nach 2 Schritten den Krug fallen lässt. Er zerspringt am Boden. Der Info-Bereich enthält 3 Hauptpunkte zum Wassereinsatz bei der Ton-Aufbereitung, die Belastbarkeit der fertigen Gefäße und nutzen zerbrochener Tonschalen zum Ofen abdecken.
 - den Töpfer: Diese Station erzeugt ein Ebenbild des Mannes an der Töpferscheibe. Diese wird Historisch korrekt mit dessen Fuß angetrieben, was in der Animation gut zu sehen ist. Mit den Händen formt er eine Amphore. Der Info-Bereich enthält die 3 wichtigsten Geschirr-Arten der damaligen zeit.
 - der Zeitreisende: Zusätzlich zu den Stationen, die sich auf Figuren im Diorama beziehen wird in der App ein Roboter auf dem Dach der Scheune platziert. Dieser ist permanent zu sehen und winkt dem Betrachter ab und an zu. Tippt man ihn an und startet seine Station erhält man Informationen über den Diorama-Bau.
-
+<br>
 Außerdem wird durch zufällig kreisende Krähen, die am Horizont oder quer über den Brennofen fliegen, das Diorama im allgemeinen belebt. Statische Figuren erhalten durch virtuell hinzugefügte bewegte Elemente an neuem Reiz.
