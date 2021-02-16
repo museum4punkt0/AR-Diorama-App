@@ -24,7 +24,7 @@ Außerdem wird durch zufällig kreisende Krähen, die am Horizont oder quer übe
 
 ## Credits
 
-uftraggeber: Deutsches Museum, München <br>
+Auftraggeber: Deutsches Museum, München <br>
 Umsetzung: elfgenpick gmbh & co. kg, Augsburg (www.elfgenpick.de)
 
 ## Lizenz
