@@ -10,11 +10,11 @@
 
 ## Technische Informationen / Installation
 
-> Das Projekt wurde mit der Unity-Engine erstellt. Version 2019.1.9f1 und die dafür kompatiblen Bibliotheken der AR-Foundation. Um alle Tracking Methoden der AR-Foundation gewährleisten zu können wird eine IOS Version ab iOS 11.0 oder eine Andriod version ab 7.0 auf dem genutzten Gerät benötigt. <br> Das aktuelle Projekt ist auf ein Tracking-Bild eingestellt, welches im Deutschen Museum neben der Info-Tafel des richtigen Dioramas platziert werden muss. Außerhalb des deutschen Museums können mit dem richtigen Tracking-Bild zwar die Funktionen getestet werden, aber diese sind an die Örtlichen Modelle angepasst und erzeugen somit ohne das Original Diorama keine Illusion oder vollständige Präsentation.<br>
+Das Projekt wurde mit der Unity-Engine erstellt. Version 2019.1.9f1 und die dafür kompatiblen Bibliotheken der AR-Foundation. Um alle Tracking Methoden der AR-Foundation gewährleisten zu können wird eine IOS Version ab iOS 11.0 oder eine Andriod version ab 7.0 auf dem genutzten Gerät benötigt. <br> Das aktuelle Projekt ist auf ein Tracking-Bild eingestellt, welches im Deutschen Museum neben der Info-Tafel des richtigen Dioramas platziert werden muss. Außerhalb des deutschen Museums können mit dem richtigen Tracking-Bild zwar die Funktionen getestet werden, aber diese sind an die Örtlichen Modelle angepasst und erzeugen somit ohne das Original Diorama keine Illusion oder vollständige Präsentation.<br>
 
 ## Umgesetzte Ar-Elemente
 
-> Das aktuelle Diorama ist unterteilt in 4 Stationen:
+Das aktuelle Diorama ist unterteilt in 4 Stationen:
 - der Ton-Rüherer: Hier wird die Aufbereitung des Tons gezeigt indem eine der beiden mit Hacken ausgestatteten Figuren diese Tätigkeit in einer Animation vorführt. Zusätzlich werden 3 Hauptpunkte zur Gewinnung des Tons im Info-Bereich angezeigt. Unter Mehr-Infos können diese 3 Punkte ausformuliert als Fließtext gelesen werden.
 - die Krugfrau: Beim Start dieser Station wird eine AR-Abbildung der Frau mit Tonkrug im Diorama erzeugt, welche nach 2 Schritten den Krug fallen lässt. Er zerspringt am Boden. Der Info-Bereich enthält 3 Hauptpunkte zum Wassereinsatz bei der Ton-Aufbereitung, zur Belastbarkeit der fertigen Gefäße und zur Weiternutzung zerbrochener Tonschalen, um den Ofen abzudecken.
 - den Töpfer: Diese Station erzeugt ein Ebenbild des Mannes an der Töpferscheibe. Diese wird Historisch korrekt mit dessen Fuß angetrieben, was in der Animation gut zu sehen ist. Mit den Händen formt er eine Amphore. Der Info-Bereich enthält die 3 wichtigsten Geschirr-Arten der damaligen zeit.
@@ -29,4 +29,4 @@ Umsetzung: elfgenpick gmbh & co. kg, Augsburg (www.elfgenpick.de)
 
 ## Lizenz
 
-CreativeCommons BY-SA 4.0
+CreativeCommons BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
