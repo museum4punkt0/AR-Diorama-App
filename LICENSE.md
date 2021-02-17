@@ -1428,7 +1428,7 @@ License file added</pre></div>
       
   <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
     <article class="markdown-body entry-content container-lg" itemprop="text"><p>MIT License</p>
-<p>Copyright (c) 2020 Deutsches Museum / Thomas Fickert</p>
+<p>Copyright (c) 2020 Deutsches Museum / elfgenpick</p>
 <p>Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
