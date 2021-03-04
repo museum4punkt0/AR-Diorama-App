@@ -26,7 +26,7 @@ Außerdem wird durch zufällig kreisende Krähen, die am Horizont oder quer übe
 ## Credits
 
 Auftraggeber: Deutsches Museum, München <br>
-Umsetzung: elfgenpick gmbh & co. kg, Augsburg (www.elfgenpick.de)
+Umsetzung: elfgenpick GmbH & Co. Kg, Augsburg (www.elfgenpick.de)
 
 ## Lizenz
 
