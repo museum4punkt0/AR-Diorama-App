@@ -26,10 +26,10 @@ Außerdem wird durch zufällig kreisende Krähen, die am Horizont oder quer übe
 ## Credits
 
 Auftraggeber: Deutsches Museum, München <br>
-Umsetzung: elfgenpick GmbH & Co. Kg, Augsburg (www.elfgenpick.de)
+Umsetzung: elfgenpick GmbH & Co. KG, Augsburg (www.elfgenpick.de)
 
 ## Lizenz
 
-Copyright (c) 2020, Deutsches Museum & elfgenpick GmbH & Co. Kg </br></br>
+Copyright (c) 2020, Deutsches Museum & elfgenpick GmbH & Co. KG </br></br>
 Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die "Software") erhält, kostenlos die Erlaubnis erteilt, uneingeschränkt mit der Software zu handeln, einschließlich und ohne Einschränkung der Rechte zur Nutzung, zum Kopieren, Modifizieren, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenzieren und/oder Verkaufen von Kopien der Software, und Personen, denen die Software zur Verfügung gestellt wird, dies unter den Bedingungen der MIT-Lizenz zu gestatten: Näheres siehe hier in der <a href="https://github.com/museum4punkt0/AR-Diorama-App/blob/master/LICENSE">Lizenz-Datei</a>.
 
