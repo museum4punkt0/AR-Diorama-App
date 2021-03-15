@@ -10,7 +10,7 @@ Diese AR-Anwendung ist entstanden im Verbundprojekt museum4punkt0 – Digitale S
 
 ## Technische Informationen / Installation
 
-Das Projekt wurde mit der Unity-Engine erstellt, Version 2019.1.9f1 (letzte Bearbeitung mit 2019.3.0f3) und die dafür kompatiblen Bibliotheken der AR-Foundation. Um alle Tracking Methoden der AR-Foundation gewährleisten zu können wird auf den Endgeräten eine iOS-Version ab 11.0 oder eine Andriod-Version ab 7.0 benötigt. <br><br> Das aktuelle Projekt ist auf ein Tracking-Bild eingestellt, welches im Deutschen Museum neben der Info-Tafel des richtigen Dioramas platziert werden muss. Außerhalb des deutschen Museums können mit dem richtigen Tracking-Bild zwar die Funktionen getestet werden, aber diese sind an die örtlichen Modelle angepasst und erzeugen somit ohne das Original-Diorama keine Illusion oder vollständige Präsentation.<br>
+Das Projekt wurde mit der Unity-Engine erstellt, Version 2019.1.9f1 (letzte Bearbeitung mit 2019.3.0f3) und die dafür kompatiblen Bibliotheken der AR-Foundation. Um alle Tracking Methoden der AR-Foundation gewährleisten zu können wird auf den Endgeräten eine Android-Version ab 7.0 benötigt. <br><br> Das aktuelle Projekt ist auf ein Tracking-Bild eingestellt, welches im Deutschen Museum neben der Info-Tafel des richtigen Dioramas platziert werden muss. Außerhalb des deutschen Museums können mit dem richtigen Tracking-Bild zwar die Funktionen getestet werden, aber diese sind an die örtlichen Modelle angepasst und erzeugen somit ohne das Original-Diorama keine Illusion oder vollständige Präsentation.<br>
 
 ## Umgesetzte AR-Elemente
 
